@@ -1,1 +1,1 @@
-this is writyen by java 1st line rudra
+this is writy by java 1st line rudra
